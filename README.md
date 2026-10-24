@@ -25,7 +25,7 @@
 
 <br><br>
 
-*building, designing, testing — one project at a time*
+*building, designing, testing - one project at a time*
 
 <sub>୨୧ &nbsp; a little creativity, a lot of curiosity &nbsp; ୨୧</sub>
 
