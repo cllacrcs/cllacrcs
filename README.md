@@ -141,7 +141,7 @@ A personal web project focused on women's mental wellness and self-care, featuri
 
 ### PawCare
 
-**Pet Care App — UI/UX**
+**Pet Care App UI/UX**
 
 </div>
 
